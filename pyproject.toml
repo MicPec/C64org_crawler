@@ -1,5 +1,5 @@
 [project]
-name = "c64org-crawler"
+name = "c64gcom-crawler"
 version = "0.1.0"
 description = "scrapes game files from the C64G.com website"
 readme = "README.md"

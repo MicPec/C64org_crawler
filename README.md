@@ -25,10 +25,10 @@ This Python script scrapes game files from the C64G.com website, downloading and
 
 ## Usage
 
-Run the script using `uv` andPython:
+Run the script using `uv` and Python:
 
 ```
-uv run c64gorg_scrapper.py
+uv run c64gcom_scrapper.py
 ```
 
 Downloaded games will be saved in the `games` subdirectory.
